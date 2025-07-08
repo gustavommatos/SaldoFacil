@@ -1,0 +1,12 @@
+{
+  "name": "saldofacil",
+  "version": "1.0.0",
+  "description": "Aplicação de gestão financeira pessoal/familiar.",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "node src/main.js"
+  },
+  "keywords": ["finanças", "gestão", "javascript", "node", "controle-financeiro"],
+  "author": "Gustavo Matos",
+  "license": "MIT"
+}
